@@ -1,5 +1,3 @@
-
-```plaintext
 flask
 pymongo
 python-dotenv
